@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 3,
-  "updatedAt": "2026-03-15T16:16:49.506Z",
+  "updatedAt": "2026-03-15T16:17:15.147Z",
   "entries": {
     "2026-03-15": [
       {
@@ -26,14 +26,6 @@
     ],
     "2026-03-16": [
       {
-        "id": "2026-03-16-1773591394249",
-        "activityId": "activity-a4bebc5c",
-        "activity": "",
-        "color": "",
-        "note": "1",
-        "createdAt": "2026-03-15T16:16:33.920Z"
-      },
-      {
         "id": "2026-03-16-1773591401237",
         "activityId": "activity-a4bebc5c",
         "activity": "",
@@ -44,6 +36,8 @@
       {
         "id": "2026-03-16-1773591409822",
         "activityId": "activity-a3cf337f",
+        "activity": "",
+        "color": "",
         "note": "1",
         "createdAt": "2026-03-15T16:16:49.506Z"
       }
