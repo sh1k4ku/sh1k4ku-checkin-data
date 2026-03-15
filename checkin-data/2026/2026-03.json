@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 3,
-  "updatedAt": "2026-03-15T16:16:33.920Z",
+  "updatedAt": "2026-03-15T16:16:40.895Z",
   "entries": {
     "2026-03-15": [
       {
@@ -28,8 +28,16 @@
       {
         "id": "2026-03-16-1773591394249",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "1",
         "createdAt": "2026-03-15T16:16:33.920Z"
+      },
+      {
+        "id": "2026-03-16-1773591401237",
+        "activityId": "activity-a4bebc5c",
+        "note": "2",
+        "createdAt": "2026-03-15T16:16:40.895Z"
       }
     ]
   }
