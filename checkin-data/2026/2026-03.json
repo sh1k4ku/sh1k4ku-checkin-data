@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 3,
-  "updatedAt": "2026-03-15T16:17:15.147Z",
+  "updatedAt": "2026-03-15T16:17:17.033Z",
   "entries": {
     "2026-03-15": [
       {
@@ -32,14 +32,6 @@
         "color": "",
         "note": "2",
         "createdAt": "2026-03-15T16:16:40.895Z"
-      },
-      {
-        "id": "2026-03-16-1773591409822",
-        "activityId": "activity-a3cf337f",
-        "activity": "",
-        "color": "",
-        "note": "1",
-        "createdAt": "2026-03-15T16:16:49.506Z"
       }
     ]
   }
