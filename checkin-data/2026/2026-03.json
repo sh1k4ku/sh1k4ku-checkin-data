@@ -2,14 +2,24 @@
   "version": 2,
   "year": 2026,
   "month": 3,
-  "updatedAt": "2026-03-15T16:11:30.784Z",
+  "updatedAt": "2026-03-15T16:12:16.705Z",
   "entries": {
     "2026-03-15": [
       {
         "id": "2026-03-15-1773591091226",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "19点去游了500m，累",
         "createdAt": "2026-03-15T16:11:30.784Z"
+      }
+    ],
+    "2026-03-14": [
+      {
+        "id": "2026-03-14-1773591137215",
+        "activityId": "activity-a4bebc5c",
+        "note": "今天氪了个年卡，游100次就能回本，遂vibe了个打卡页面",
+        "createdAt": "2026-03-15T16:12:16.705Z"
       }
     ]
   }
