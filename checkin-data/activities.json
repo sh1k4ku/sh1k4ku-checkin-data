@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "updatedAt": "2026-03-15T16:10:02.986Z",
+  "activities": {
+    "activity-a4bebc5c": {
+      "id": "activity-a4bebc5c",
+      "label": "游泳",
+      "shortLabel": "游",
+      "color": "#be185d",
+      "createdAt": "2026-03-15T16:10:02.986Z",
+      "updatedAt": "2026-03-15T16:10:02.986Z"
+    }
+  }
+}
