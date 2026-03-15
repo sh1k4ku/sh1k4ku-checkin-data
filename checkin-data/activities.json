@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-15T16:35:47.366Z",
+  "updatedAt": "2026-03-15T16:35:56.313Z",
   "activities": {
     "activity-a4bebc5c": {
       "id": "activity-a4bebc5c",
@@ -46,6 +46,21 @@
       "aliases": [],
       "createdAt": "2026-03-15T16:35:47.366Z",
       "updatedAt": "2026-03-15T16:35:47.366Z"
+    },
+    "2-370cabd5": {
+      "id": "2-370cabd5",
+      "label": "2",
+      "shortLabel": "2",
+      "color": "#7c3aed",
+      "category": "",
+      "unit": "",
+      "targetValue": null,
+      "targetPeriod": "",
+      "description": "",
+      "archived": false,
+      "aliases": [],
+      "createdAt": "2026-03-15T16:35:56.313Z",
+      "updatedAt": "2026-03-15T16:35:56.313Z"
     }
   }
 }
