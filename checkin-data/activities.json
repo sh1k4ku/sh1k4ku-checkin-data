@@ -1,14 +1,36 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-15T16:10:02.986Z",
+  "updatedAt": "2026-03-15T16:16:49.506Z",
   "activities": {
     "activity-a4bebc5c": {
       "id": "activity-a4bebc5c",
       "label": "游泳",
       "shortLabel": "游",
       "color": "#be185d",
+      "category": "",
+      "unit": "",
+      "targetValue": null,
+      "targetPeriod": "",
+      "description": "",
+      "archived": false,
+      "aliases": [],
       "createdAt": "2026-03-15T16:10:02.986Z",
       "updatedAt": "2026-03-15T16:10:02.986Z"
+    },
+    "activity-a3cf337f": {
+      "id": "activity-a3cf337f",
+      "label": "睡觉",
+      "shortLabel": "睡",
+      "color": "#dc2626",
+      "category": "",
+      "unit": "",
+      "targetValue": null,
+      "targetPeriod": "",
+      "description": "",
+      "archived": false,
+      "aliases": [],
+      "createdAt": "2026-03-15T16:16:49.506Z",
+      "updatedAt": "2026-03-15T16:16:49.506Z"
     }
   }
 }
