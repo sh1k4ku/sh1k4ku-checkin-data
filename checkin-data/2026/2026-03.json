@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 3,
-  "updatedAt": "2026-03-16T16:01:39.531Z",
+  "updatedAt": "2026-03-18T04:50:01.912Z",
   "entries": {
     "2026-03-15": [
       {
@@ -28,8 +28,18 @@
       {
         "id": "2026-03-16-1773676899951",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "去的太晚了，练习500m自由泳",
         "createdAt": "2026-03-16T16:01:39.531Z"
+      }
+    ],
+    "2026-03-18": [
+      {
+        "id": "2026-03-18-1773809402454",
+        "activityId": "activity-a4bebc5c",
+        "note": "9点半自由泳1km",
+        "createdAt": "2026-03-18T04:50:01.912Z"
       }
     ]
   }
