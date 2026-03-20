@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 3,
-  "updatedAt": "2026-03-18T04:50:47.206Z",
+  "updatedAt": "2026-03-20T15:22:30.082Z",
   "entries": {
     "2026-03-15": [
       {
@@ -48,8 +48,18 @@
       {
         "id": "2026-03-17-1773809447621",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "晚上自由泳650m，但是沐浴露和洗发水忘记拿🥲",
         "createdAt": "2026-03-18T04:50:47.206Z"
+      }
+    ],
+    "2026-03-20": [
+      {
+        "id": "2026-03-20-1774020150610",
+        "activityId": "activity-a4bebc5c",
+        "note": "自由泳700m，with y2",
+        "createdAt": "2026-03-20T15:22:30.082Z"
       }
     ]
   }
