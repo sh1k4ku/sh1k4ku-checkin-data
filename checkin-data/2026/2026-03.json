@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 3,
-  "updatedAt": "2026-03-20T15:22:30.082Z",
+  "updatedAt": "2026-03-21T13:07:02.087Z",
   "entries": {
     "2026-03-15": [
       {
@@ -58,8 +58,18 @@
       {
         "id": "2026-03-20-1774020150610",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "自由泳700m，with y2",
         "createdAt": "2026-03-20T15:22:30.082Z"
+      }
+    ],
+    "2026-03-21": [
+      {
+        "id": "2026-03-21-1774098422477",
+        "activityId": "activity-a4bebc5c",
+        "note": "自由泳700m，尝试二次打腿失败☹️",
+        "createdAt": "2026-03-21T13:07:02.087Z"
       }
     ]
   }
