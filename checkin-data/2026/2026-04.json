@@ -2,6 +2,15 @@
   "version": 2,
   "year": 2026,
   "month": 4,
-  "updatedAt": "2026-04-05T09:13:15.386Z",
-  "entries": {}
+  "updatedAt": "2026-04-05T09:13:33.957Z",
+  "entries": {
+    "2026-04-03": [
+      {
+        "id": "2026-04-03-1775380414291",
+        "activityId": "activity-a4bebc5c",
+        "note": "发烧了几天T T，自由泳500m",
+        "createdAt": "2026-04-05T09:13:33.957Z"
+      }
+    ]
+  }
 }
