@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 3,
-  "updatedAt": "2026-03-26T13:05:48.900Z",
+  "updatedAt": "2026-04-05T09:12:53.724Z",
   "entries": {
     "2026-03-15": [
       {
@@ -98,8 +98,18 @@
       {
         "id": "2026-03-26-1774530349351",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "自由泳900m，练习三划一呼吸",
         "createdAt": "2026-03-26T13:05:48.900Z"
+      }
+    ],
+    "2026-03-27": [
+      {
+        "id": "2026-03-27-1775380374056",
+        "activityId": "activity-a4bebc5c",
+        "note": "自由泳800m",
+        "createdAt": "2026-04-05T09:12:53.724Z"
       }
     ]
   }
