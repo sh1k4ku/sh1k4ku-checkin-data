@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 4,
-  "updatedAt": "2026-04-11T10:47:41.138Z",
+  "updatedAt": "2026-04-12T10:00:47.272Z",
   "entries": {
     "2026-04-03": [
       {
@@ -38,8 +38,18 @@
       {
         "id": "2026-04-10-1775904461546",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "自由泳700m，快了一点点",
         "createdAt": "2026-04-11T10:47:41.138Z"
+      }
+    ],
+    "2026-04-12": [
+      {
+        "id": "2026-04-12-1775988047771",
+        "activityId": "activity-a4bebc5c",
+        "note": "自由泳1.2km，第一次1km游进了40min ^^，giant step!",
+        "createdAt": "2026-04-12T10:00:47.272Z"
       }
     ]
   }
