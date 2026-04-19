@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-15T16:36:19.988Z",
+  "updatedAt": "2026-04-19T12:56:13.515Z",
   "activities": {
     "activity-a4bebc5c": {
       "id": "activity-a4bebc5c",
@@ -76,6 +76,21 @@
       "aliases": [],
       "createdAt": "2026-03-15T16:36:19.988Z",
       "updatedAt": "2026-03-15T16:36:19.988Z"
+    },
+    "activity-1484bf9e": {
+      "id": "activity-1484bf9e",
+      "label": "爬坡",
+      "shortLabel": "爬",
+      "color": "#be185d",
+      "category": "",
+      "unit": "",
+      "targetValue": null,
+      "targetPeriod": "",
+      "description": "",
+      "archived": false,
+      "aliases": [],
+      "createdAt": "2026-04-19T12:56:13.515Z",
+      "updatedAt": "2026-04-19T12:56:13.515Z"
     }
   }
 }
