@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-19T12:56:13.515Z",
+  "updatedAt": "2026-04-19T12:56:43.274Z",
   "activities": {
     "activity-a4bebc5c": {
       "id": "activity-a4bebc5c",
@@ -91,6 +91,21 @@
       "aliases": [],
       "createdAt": "2026-04-19T12:56:13.515Z",
       "updatedAt": "2026-04-19T12:56:13.515Z"
+    },
+    "activity-7453ea11": {
+      "id": "activity-7453ea11",
+      "label": "健身",
+      "shortLabel": "健",
+      "color": "#dc2626",
+      "category": "",
+      "unit": "",
+      "targetValue": null,
+      "targetPeriod": "",
+      "description": "",
+      "archived": false,
+      "aliases": [],
+      "createdAt": "2026-04-19T12:56:43.274Z",
+      "updatedAt": "2026-04-19T12:56:43.274Z"
     }
   }
 }
