@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 5,
-  "updatedAt": "2026-05-14T15:19:03.124Z",
+  "updatedAt": "2026-05-14T15:19:11.305Z",
   "entries": {
     "2026-05-07": [
       {
@@ -66,8 +66,16 @@
       {
         "id": "2026-05-13-1778771943645",
         "activityId": "activity-7453ea11",
+        "activity": "",
+        "color": "",
         "note": "练背",
         "createdAt": "2026-05-14T15:19:03.124Z"
+      },
+      {
+        "id": "2026-05-13-1778771951854",
+        "activityId": "activity-1484bf9e",
+        "note": "25min",
+        "createdAt": "2026-05-14T15:19:11.305Z"
       }
     ]
   }
