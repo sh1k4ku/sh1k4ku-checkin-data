@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 5,
-  "updatedAt": "2026-05-12T11:13:54.870Z",
+  "updatedAt": "2026-05-14T15:18:51.731Z",
   "entries": {
     "2026-05-07": [
       {
@@ -46,8 +46,18 @@
       {
         "id": "2026-05-12-1778584435340",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "自由泳1km，和chr一起",
         "createdAt": "2026-05-12T11:13:54.870Z"
+      }
+    ],
+    "2026-05-14": [
+      {
+        "id": "2026-05-14-1778771932249",
+        "activityId": "activity-a4bebc5c",
+        "note": "自由泳600m，嘴巴发苦，遂逃跑",
+        "createdAt": "2026-05-14T15:18:51.731Z"
       }
     ]
   }
