@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 5,
-  "updatedAt": "2026-05-25T14:15:25.512Z",
+  "updatedAt": "2026-05-28T15:11:05.603Z",
   "entries": {
     "2026-05-07": [
       {
@@ -134,8 +134,18 @@
       {
         "id": "2026-05-20-1779718526151",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "自由泳1km，今天换两划一换，竟然突破到37min了",
         "createdAt": "2026-05-25T14:15:25.512Z"
+      }
+    ],
+    "2026-05-28": [
+      {
+        "id": "2026-05-28-1779981066404",
+        "activityId": "activity-a4bebc5c",
+        "note": "自由泳1.1km",
+        "createdAt": "2026-05-28T15:11:05.603Z"
       }
     ]
   }
