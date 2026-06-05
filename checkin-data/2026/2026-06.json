@@ -2,14 +2,24 @@
   "version": 2,
   "year": 2026,
   "month": 6,
-  "updatedAt": "2026-06-05T15:10:19.540Z",
+  "updatedAt": "2026-06-05T15:11:46.775Z",
   "entries": {
     "2026-06-05": [
       {
         "id": "2026-06-05-1780672220330",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "去的很晚，游了800m就闭馆了",
         "createdAt": "2026-06-05T15:10:19.540Z"
+      }
+    ],
+    "2026-06-01": [
+      {
+        "id": "2026-06-01-1780672307503",
+        "activityId": "activity-a4bebc5c",
+        "note": "自由泳1km",
+        "createdAt": "2026-06-05T15:11:46.775Z"
       }
     ]
   }
