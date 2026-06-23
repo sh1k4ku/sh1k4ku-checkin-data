@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 6,
-  "updatedAt": "2026-06-17T12:29:07.848Z",
+  "updatedAt": "2026-06-23T12:49:48.941Z",
   "entries": {
     "2026-06-05": [
       {
@@ -58,8 +58,18 @@
       {
         "id": "2026-06-10-1781699348374",
         "activityId": "activity-a4bebc5c",
+        "activity": "",
+        "color": "",
         "note": "自由泳1km",
         "createdAt": "2026-06-17T12:29:07.848Z"
+      }
+    ],
+    "2026-06-23": [
+      {
+        "id": "2026-06-23-1782218989368",
+        "activityId": "activity-a4bebc5c",
+        "note": "900m",
+        "createdAt": "2026-06-23T12:49:48.941Z"
       }
     ]
   }
