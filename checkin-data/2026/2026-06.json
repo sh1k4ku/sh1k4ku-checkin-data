@@ -2,7 +2,7 @@
   "version": 2,
   "year": 2026,
   "month": 6,
-  "updatedAt": "2026-06-23T12:50:22.540Z",
+  "updatedAt": "2026-06-23T12:51:10.508Z",
   "entries": {
     "2026-06-05": [
       {
@@ -78,8 +78,18 @@
       {
         "id": "2026-06-19-1782219022979",
         "activityId": "activity-7453ea11",
+        "activity": "",
+        "color": "",
         "note": "练肩",
         "createdAt": "2026-06-23T12:50:22.540Z"
+      }
+    ],
+    "2026-06-21": [
+      {
+        "id": "2026-06-21-1782219070946",
+        "activityId": "activity-a4bebc5c",
+        "note": "1km",
+        "createdAt": "2026-06-23T12:51:10.508Z"
       }
     ]
   }
